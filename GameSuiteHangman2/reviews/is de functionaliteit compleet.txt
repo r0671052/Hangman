@@ -1,0 +1,5 @@
+1. Wanneer lege naam wordt ingegeven: gooit een domainexception (nullpointerexception bij pictionary) na spel gekozen te hebben
+2. Wanneer gecancelled wordt bij spelkeuze, gooit nullpointerexception
+3. Wanneer leeg getal / ongeldig getal wordt meegegeven aan pictionaryUI (bij teken vorm / toon tekening) gooit numberformatexception
+4. Pictionary creërt nieuwe tekening bij elke wijziging (en deze sluiten niet automatisch wanneer het spel afgesloten wordt door het menu)
+5. Venster sluiten / cancellen bij vorm toevoegen gooit nullpointerexception

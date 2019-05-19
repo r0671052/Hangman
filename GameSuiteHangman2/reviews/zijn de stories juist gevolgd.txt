@@ -1,0 +1,5 @@
+1. De UML lijkt juist geïmplementeerd te zijn, echter de gegeven UML is niet altijd consistent (de UML gegeven in latere stories komt niet altijd overeen met deze in eerdere, onze UML komt overeen met laats gegeven.)
+2. ???
+3. De klassen staan in de juiste packages.
+4. De abstracte klasses en interfaces lijken juist gebruikt te zijn, enkel blijkt het dat alle children van vorm "implements Drawable" hebben terwijl dit in feite niet nodig is (staat reeds in Vorm zelf)
+5. Alle gevraagde functionaliteiten lijken geïmplementeerd te zijn.
